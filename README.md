@@ -34,7 +34,7 @@ Total Cost = 3500
 ## Setup
 1. Clone the repository:
 ```console 
-git clone https://github.com/iTzTalha/snake-and-ladder.git
+git clone https://github.com/iTzTalha/Flight-inAir.git
 ```
 
 2. Register Flights: Use the register flight command to add flights between cities with their respective prices.
