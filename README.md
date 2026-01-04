@@ -57,7 +57,7 @@ java -cp bin Driver
 * **Coding Standards:** Clear, maintainable, and well-structured code with a focus on readability.
 
 ## Contributing
-Contributions to the Splitwise Clone project are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions to the project are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Show Your Support
 Give a ⭐️ if you like this project!
